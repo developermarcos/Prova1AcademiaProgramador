@@ -39,7 +39,7 @@ namespace ALendaDeFlaviusJosephus.ConsoleApp
                                 else
                                 {
                                     mortos[i+1] = "mortos";
-                                    posicaoAtual+ = 2;
+                                    posicaoAtual += 2;
                                     break;
                                 }
                             }
